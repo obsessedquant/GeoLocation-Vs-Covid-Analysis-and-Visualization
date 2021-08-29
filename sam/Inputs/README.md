@@ -101,3 +101,15 @@ The source for this data is:
 Filename: tbmics.csv
 
 ![View](Input_Images/sentiment.png)
+
+
+## Consumer Confidence Survey
+
+This data is meant to show whether consumer confidence is a leading indicator of pending market drops.
+
+The source for this data is:
+<https://data.oecd.org/leadind/consumer-confidence-index-cci.htm>
+
+Filename: DP_LIVE_29082021233211990.csv
+
+![View](Input_Images/confidence_survey1.png)
