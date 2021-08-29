@@ -1,5 +1,20 @@
 # Economic Indicators Input Files
 
+For the economic indicators, we looked at the following indicators and data:
+
+* *Empire State Manufacturing Survey*  
+* *Philadelphia Business Outlook Survey*  
+* *Kansas City Manufacturing Survey of the 10th District*  
+* *Richmond Fifth District Survey of Manufacturing Activity*  
+* *Chicago Fed National Activity Index*  
+* *Yield Curve Spreads (2-10, 3mo-10, 5-30)*  
+* *Consumer Sentiment*  
+* *Consumer Confidence*  
+* *CPI*  
+* *Personal Income & Spending*  
+* *Employment*  
+
+
 ## Empire State Manufacturing Survey
 
 In this survey, we'll be using the seasonally adjusted General Business Conditions to get a sense of how COVID affected the Empire State.
@@ -62,3 +77,15 @@ The source for this data is:
 Filename: cfnai-data-series-xlsx.xlsx
 
 ![View](Input_Images/Chicago.png)
+
+
+## Yield Curve Spreads (2-10, 3mo-10, 5-30)
+
+For this data, we're evaluating the Treasury yield spreads to see if this gives us any insight into correlations with market movements.
+
+The source for this data is:
+<https://www.federalreserve.gov/releases/h15/>
+
+Filename: FRB_H15.csv
+
+![View](Input_Images/Interest_rates.png)
