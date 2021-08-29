@@ -113,3 +113,15 @@ The source for this data is:
 Filename: DP_LIVE_29082021233211990.csv
 
 ![View](Input_Images/confidence_survey1.png)
+
+
+## Consumer Confidence Survey
+
+This data is meant to show whether CPI is a leading indicator of pending market drops.
+
+The source for this data is:
+<https://www.bls.gov/>
+
+Filename: SeriesReport-20210829174913_8539aa.xlsx
+
+![View](Input_Images/CPI.png)
