@@ -89,3 +89,15 @@ The source for this data is:
 Filename: FRB_H15.csv
 
 ![View](Input_Images/Interest_rates.png)
+
+
+## University of Michigan Consumer Sentiment Survey
+
+This data is meant to show whether consumer sentiment is a leading indicator of pending market drops.
+
+The source for this data is:
+<http://www.sca.isr.umich.edu/>
+
+Filename: tbmics.csv
+
+![View](Input_Images/sentiment.png)
