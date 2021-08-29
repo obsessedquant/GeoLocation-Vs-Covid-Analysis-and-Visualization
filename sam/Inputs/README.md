@@ -50,3 +50,15 @@ The source for this data is:
 Filename: mfg_historicaldata.xlsx
 
 ![View](Input_Images/Richmond.png)
+
+
+## Chicago Fed National Activity Index
+
+In this survey, we'll be using the Chicago Fed National Activity Index (CFNAI).
+
+The source for this data is:
+<https://www.chicagofed.org/research/data/cfnai/current-data>
+
+Filename: cfnai-data-series-xlsx.xlsx
+
+![View](Input_Images/Chicago.png)
