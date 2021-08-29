@@ -38,3 +38,15 @@ The source for this data is:
 Filename: ManufSurvey_Augu_PR_2021-8-26-Table2.xlsx
 
 ![View](Input_Images/Kansas_City_Manufacturing_Survey.png)
+
+
+## Richmond Fifth District Survey of Manufacturing Activity
+
+In this survey, we'll be using the seasonally adjusted manufacturing composite diffusion index (variable name = sa_mfg_composite).
+
+The source for this data is:
+<https://www.richmondfed.org/research/regional_economy/surveys_of_business_conditions/manufacturing>
+
+Filename: mfg_historicaldata.xlsx
+
+![View](Input_Images/Richmond.png)
