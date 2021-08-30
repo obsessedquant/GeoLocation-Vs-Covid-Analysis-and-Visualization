@@ -115,7 +115,7 @@ Filename: DP_LIVE_29082021233211990.csv
 ![View](Input_Images/confidence_survey1.png)
 
 
-## Consumer Confidence Survey
+## Consumer Price Index
 
 This data is meant to show whether CPI is a leading indicator of pending market drops.
 
@@ -125,3 +125,27 @@ The source for this data is:
 Filename: SeriesReport-20210829174913_8539aa.xlsx
 
 ![View](Input_Images/CPI.png)
+
+
+## National Income and Product Accounts - Wages and Salaries
+
+This data is meant to show whether wages are a leading indicator of pending market drops.
+
+The source for this data is:
+<https://www.bea.gov/>
+
+Filename: download.csv
+
+![View](Input_Images/Wages.png)
+
+
+## Unemployment Rate
+
+This data is meant to show whether unemployment is a leading indicator of pending market drops.
+
+The source for this data is:
+<https://data.bls.gov/timeseries/LNS14000000>
+
+Filename: SeriesReport-20210829220108_b33332.xlsx
+
+![View](Input_Images/unemployment.png)
