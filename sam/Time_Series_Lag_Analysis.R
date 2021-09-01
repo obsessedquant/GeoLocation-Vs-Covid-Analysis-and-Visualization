@@ -7,7 +7,7 @@ eco_ind <- import("Output/compiled_z_scores.csv")
 head(eco_ind)
 
 # eco_ind <- read.csv("economic_indicators.csv",header=True)
-devtools::install_github("nickpoison/astsa")
+devtools::install_github("nickpoison/astsa/astsa_build")
 
 
 # CLEAN UP #################################################
