@@ -6,7 +6,7 @@ Below is a flow chart of my current activities
 
 Steps include:
 
-* Pull data from Fed sits and plot
+* Pull data from Fed sites and plot
 
 Completed tasks:
 
